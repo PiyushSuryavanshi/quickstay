@@ -22,7 +22,7 @@ Experience the project in action here: [QuickStay · Hotel Booking](https://hote
 Getting Started
 ```bash
 git clone https://github.com/PiyushSuryavanshi/quickstay
-cd QuickStay-Hotel-Booking
+cd QuickStay
 npm install
 npm start
 
