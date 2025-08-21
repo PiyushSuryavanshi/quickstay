@@ -14,14 +14,15 @@ QuickStay is a responsive hotel booking app built with **React.js, JavaScript** 
 - Styling: Tailwind CSS
 - Hosting: Netlify
 
+## Live Demo
+
+Experience the project in action here: [QuickStay · Hotel Booking](https://hotelbooking-quickstay.netlify.app/)
+
+
 Getting Started
 ```bash
 git clone https://github.com/your-username/QuickStay-Hotel-Booking.git
 cd QuickStay-Hotel-Booking
 npm install
 npm start
-
-## Live Demo
-
-Experience the project in action here: [QuickStay · Hotel Booking](https://hotelbooking-quickstay.netlify.app/)
 
