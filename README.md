@@ -21,7 +21,7 @@ Experience the project in action here: [QuickStay · Hotel Booking](https://hote
 
 Getting Started
 ```bash
-git clone https://github.com/your-username/QuickStay-Hotel-Booking.git
+git clone https://github.com/PiyushSuryavanshi/QuickStay-Hotel-Booking.git
 cd QuickStay-Hotel-Booking
 npm install
 npm start
