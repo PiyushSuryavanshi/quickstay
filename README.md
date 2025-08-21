@@ -14,3 +14,7 @@ It allows users to search, filter, and book hotels easily with a clean UI.
 - **Frontend**: React.js, Tailwind CSS, JavaScript
 - **Routing**: React Router
 - **State Management**: useState, useEffect
+
+## Live Demo
+
+Experience the project in action here: [QuickStay · Hotel Booking](https://hotelbooking-quickstay.netlify.app/)
